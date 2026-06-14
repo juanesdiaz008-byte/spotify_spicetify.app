@@ -1,0 +1,1 @@
+# spotify_spicetify.app
